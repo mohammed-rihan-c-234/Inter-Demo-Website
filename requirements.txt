@@ -1,0 +1,23 @@
+# INTER Demo Website — runtime requirements
+#
+# This project is a Node.js / React application, not a Python one.
+# The actual JavaScript dependencies are managed in package.json
+# (install them with `npm install`).
+#
+# Environment used to develop and build:
+#
+#   Node.js  >= 20.x   (developed on Node 22.22.1)
+#   npm      >= 10.x
+#
+#   # Vite dev server / build (see package.json for exact versions)
+#   vite ^7.1.0
+#   react ^19.1.0
+#   react-dom ^19.1.0
+#   framer-motion ^12.23.12
+#
+# Optional (visual testing scripts in scripts/):
+#   playwright-core ^1.64.1  + a Chromium binary (@sparticuz/chromium)
+#
+# If your deployment pipeline expects a pip-style requirements.txt,
+# you can generate one for tooling purposes only — the site itself
+# builds with plain Node.js as documented in README.md.

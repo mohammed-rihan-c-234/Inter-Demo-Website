@@ -1,0 +1,32 @@
+# Image provenance — all assets copied from public pages on inter.sa
+#
+# Hero / capability / band imagery (1920x900, 3504x2336):
+- excavator.jpg          — https://inter.sa/images/dynamic/Slider/excavator.jpg
+- services.jpg           — https://inter.sa/images/dynamic/Slider/enterprisebg.jpg
+- inter-banner.jpg       — https://inter.sa/images/dynamic/Slider/WebsiteBannerInter2.jpg
+- training.jpg           — https://inter.sa/images/dynamic/Slider/DSC0401_2_50.jpg   (GNTI facility)
+- services-banner.jpg    — https://inter.sa/images/dynamic/Slider/Untitled-1a1.jpg   (vision band, text cropped via object-position)
+- construction-banner.jpg — https://inter.sa/interconstruction.aspx → https://inter.sa/Images/PicLib/DSC04501_50.jpg
+- fire-truck.png         — https://inter.sa/intersafety.aspx → https://inter.sa/Images/PicLib/fordFiretruck.png (cutout)
+- project-team.jpg       — https://inter.sa/intersafety.aspx → engineering drawing (PicLib)
+- documents.jpg          — https://inter.sa/intersafety.aspx → https://inter.sa/Images/PicLib/Documents1.jpg (Vision 2030 / ministry certificates)
+
+# Gallery thumbnails and extra tiles (400x225 / 370x190 / 600x352):
+- construction-project.jpg — https://inter.sa/images/Gallery/Albums/07.jpg
+- dental-center.jpg        — https://inter.sa/images/Gallery/Albums/022.jpg
+- fire-protection.jpg      — https://inter.sa/images/Gallery/Albums/87be0.jpeg
+- marine-complex.jpg       — https://inter.sa/images/Gallery/Albums/a7dc41.jpg
+- construction-05.jpg      — https://inter.sa/images/Gallery/Albums/05.jpg
+- construction.jpg         — https://inter.sa/images/construction.jpg
+- carequipment.jpg         — https://inter.sa/images/carequipment.jpg
+- enterprise.jpg           — https://inter.sa/images/enterprise.jpg
+- exhibition.jpg           — https://inter.sa/images/exhibition.jpg
+- safty.jpg                — https://inter.sa/images/safty.jpg
+- whoweare.jpg             — https://inter.sa/images/whoweare.jpg
+
+# Other
+- public/favicon.ico — https://inter.sa/images/icon.ico
+
+Note: approved high-resolution originals are recommended for production;
+several gallery images are small thumbnails that have been placed in
+small-format layouts (project thumbs, gallery mosaic, cards).

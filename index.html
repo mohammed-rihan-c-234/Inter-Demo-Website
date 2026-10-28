@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#07201f" />
+    <meta
+      name="description"
+      content="INTER Trading Group — Saudi-owned multi-business group established in Dhahran in 1988. Construction, fire & safety, equipment, logistics, exhibitions and training."
+    />
+    <title>INTER Trading Group | Built to move industries forward</title>
+
+    <!-- Social sharing -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="INTER Trading Group" />
+    <meta property="og:title" content="INTER Trading Group | Built to move industries forward" />
+    <meta
+      property="og:description"
+      content="Saudi-owned multi-business group established in 1988 — construction, safety, equipment, logistics, exhibitions and training."
+    />
+    <meta property="og:image" content="/images/excavator.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      // Apply the saved/system theme before any paint to avoid a flash.
+      (function () {
+        var saved = null;
+        try { saved = localStorage.getItem('inter-theme'); } catch (e) {}
+        var dark = saved === 'dark' || (saved !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
